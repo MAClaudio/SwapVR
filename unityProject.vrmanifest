@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.swapvr.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\Users\\Michael Claudio\\Documents\\Unity\\SwapVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "SwapVR [Testing]"
+        }
+      }
+    }
+  ]
+}
