@@ -1,0 +1,4 @@
+Floor is lava: Get a button to a switch without it touching the ground.
+
+See Saw: Drop things on levers to launch. Maybe launch player? Need to determine if the ghost need physics or is synced to player location
+

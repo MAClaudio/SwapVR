@@ -1,0 +1,29 @@
+Portal Inspired
+
+Test chambers.
+2 Entities, player and "ghost"
+Chambers are split down the middle. 
+Ghost mimics player's movement.
+Players can swap between ghost at any time. 
+	(Maybe fields that disable switching?)
+
+Complete chambers by getting to end of level. Portal-style
+
+Puzzle Idea:
+	Ball on a button.
+	Ball exists on side B
+	There is a ramp between sides.
+	Ramp leads to "lava" or that portal muck water.
+	Solution: Swap, pick up ball, place ball on ramp, swap, grab ball before rolls off, place on button. Win!
+
+Critical features:
+Player must move 2 characters on same input.
+Swapping must not disorient player.
+Good physics system. Hopefully unity is good enough.
+
+"Easily" make multiplayer co op maps.
+
+This will make me famous.
+
+Try it out. This may be really fun.
+

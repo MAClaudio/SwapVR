@@ -1,0 +1,14 @@
+2019/07/31
+=================
+Ghost movement
+Ideas: Mirror player, copy player, don't move at all
+
+Copy player is kind of disorientating. If you were facing the ghost and swap, you would be facing away from the old position.
+
+Mirror player might cause players to spin around a lot. Would need to test it. But swapping while facing ghost would be face to face.
+
+Don't move at all would make moving both character's tedious.
+
+I'll start off with just trying to copy position first. Then mirror across an axis (Would I just negate tranformation across the mirror axis?)
+
+
